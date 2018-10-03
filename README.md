@@ -1,3 +1,5 @@
+## Updated project to AndroidX Libs
+
 # Material-Calendar-View
 
 Material-Calendar-View is a simple and customizable calendar widget for Android based on Material Design. The widget has two funcionalities: a date picker to select dates (available as an XML widget and a dialog) and a classic calendar. The date picker can work either as a single day picker, many days picker or range picker.
